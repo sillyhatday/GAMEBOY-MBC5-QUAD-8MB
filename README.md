@@ -1,6 +1,11 @@
 # GAMEBOY-FLASHCART-MBC5-QUAD-8MB
 8MB Gameboy cart using only 2MB flash chips
 
+## Example
+
+picture init geez
+![IMG_5682](https://github.com/sillyhatday/GAMEBOY-FLASHCART-MBC5-QUAD-8MB/assets/65309612/3313354c-afb9-4809-a06f-f7ce1fcd8f23)
+
 ## Build Guide
 
 pain
