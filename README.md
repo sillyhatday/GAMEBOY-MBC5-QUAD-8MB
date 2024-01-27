@@ -15,3 +15,5 @@ pain
 | 74HC32 | 1 | TSSOP14 |
 | 74HCLVC1G139 | 1 | VSSOP8 |
 | 74LVC1G332 | 1 | TSOP6 |
+
+some 10K resistors and caps and what have you have fun
