@@ -10,7 +10,6 @@ picture init geez
 
 pain
 
-![image0](https://github.com/sillyhatday/GAMEBOY-FLASHCART-MBC5-QUAD-8MB/assets/65309612/cd07c87c-ada2-4085-a12b-5a9b199fda6b)
 ![brain cells](https://github.com/sillyhatday/GAMEBOY-FLASHCART-MBC5-QUAD-8MB/assets/65309612/da280f7c-eda0-419a-81b1-6aac00870cae)
 
 ## BOM
@@ -25,3 +24,4 @@ pain
 | 74LVC1G332 | 1 | TSOP6 |
 
 sprinkle some 10K resistors and caps and what have you have fun
+![image0](https://github.com/sillyhatday/GAMEBOY-FLASHCART-MBC5-QUAD-8MB/assets/65309612/cd07c87c-ada2-4085-a12b-5a9b199fda6b)
