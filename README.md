@@ -3,7 +3,7 @@
 
 ## Example
 
-![IMG_5682](https://github.com/sillyhatday/GAMEBOY-FLASHCART-MBC5-QUAD-8MB/assets/65309612/3313354c-afb9-4809-a06f-f7ce1fcd8f23)
+![IMG_5682](https://github.com/sillyhatday/GAMEBOY-MBC5-QUAD-8MB/assets/65309612/446ea75a-cd4b-4d47-86c4-ba028400496c)
 
 ## Build Guide
 
