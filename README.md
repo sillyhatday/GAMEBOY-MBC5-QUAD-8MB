@@ -21,9 +21,17 @@
 
 ![CW8mb](https://github.com/user-attachments/assets/de36d82f-c6ca-412a-abe4-0703ec6c0747)
 
+## Xukkorz Build - https://github.com/Xukkorz
+
+![xukz8mbcart](https://github.com/user-attachments/assets/8816b0f6-16dc-46b0-bc90-13743f304177)
+
+![xuk8mbcartbak](https://github.com/user-attachments/assets/2118de5b-f09a-4c63-b665-5bd98e0377c0)
+
 ## Build Guide
 
 pain
+
+(I actually plan to add basic guide here)
 
 ## BOM
 
