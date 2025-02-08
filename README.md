@@ -31,6 +31,8 @@
 
 pain
 
+![Gameboy MBC5 Cart QUAD FLASH -  FRAM - 4-8MB](https://github.com/user-attachments/assets/d5e12b89-6c51-45ef-b8ee-115576e9584e)
+
 (I actually plan to add basic guide here)
 
 ## BOM
